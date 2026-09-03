@@ -1,14 +1,19 @@
 <div align="center">
 
 # Hey, I'm Ayoub 👋⚡
+### Full-Stack Developer
 
 </div>
 
-I'm a full-stack developer who genuinely loves the whole stack — not just the shiny frontend part, but the databases groaning under load, the auth flows that have to be bulletproof, the sockets that need to stay open, and the tests that catch the bug before your users do. Computer Science degree in hand, but honestly the real education has been building things end-to-end and watching them actually work in production-like conditions.
+<br>
 
-I like software that *feels* fast and *is* correct. Snappy UI is easy to fake — real-time correctness, race-condition-proof booking logic, and clean role-based permissions are where the actual engineering happens, and that's the part I get excited about.
+> I'm a full-stack developer who genuinely loves the whole stack — not just the shiny frontend part, but the databases groaning under load, the auth flows that have to be bulletproof, the sockets that need to stay open, and the tests that catch the bug before your users do. Computer Science degree in hand, but honestly the real education has been building things end-to-end and watching them actually work in production-like conditions.
+>
+> I like software that *feels* fast and *is* correct. Snappy UI is easy to fake — real-time correctness, race-condition-proof booking logic, and clean role-based permissions are where the actual engineering happens, and that's the part I get excited about.
 
 <br>
+
+---
 
 ## 🎨 Frontend
 
@@ -21,7 +26,6 @@ I like software that *feels* fast and *is* correct. Snappy UI is easy to fake �
 
 </div>
 
-
 - **Next.js 14 (App Router)** — the modern way to build React apps, and I use it properly: server components, route handlers, the works.
 - **React 18** — component architecture that scales past "just make it work."
 - **TypeScript** — because runtime surprises are for amateurs. Type safety end-to-end, from the database schema up to the UI props.
@@ -29,6 +33,8 @@ I like software that *feels* fast and *is* correct. Snappy UI is easy to fake �
 - **Optimistic UI & real-time rendering** — updates that feel instant even while the network round-trip is still happening, done responsibly so the UI never lies to the user.
 
 <br>
+
+---
 
 ## 🔧 Backend
 
@@ -40,13 +46,14 @@ I like software that *feels* fast and *is* correct. Snappy UI is easy to fake �
 
 </div>
 
-
 - **Next.js Route Handlers & custom Node servers** — comfortable wiring up a server exactly the way a project needs it, not just accepting framework defaults.
 - **REST API design** — clean, predictable endpoints with proper server-side validation using **Zod**, so bad data never makes it past the front door.
 - **Real-time systems with Socket.IO** — rooms, presence tracking, live broadcasting to every connected client the instant something changes. This is the fun stuff: making multiple browsers agree on reality in real time.
 - **Drag-and-drop interaction systems** — built with @dnd-kit and fractional indexing, so reordering things feels buttery smooth and never corrupts state under concurrent edits.
 
 <br>
+
+---
 
 ## 🗄️ Data & Auth
 
@@ -66,6 +73,8 @@ I like software that *feels* fast and *is* correct. Snappy UI is easy to fake �
 
 <br>
 
+---
+
 ## 🧪 Testing & Tooling
 
 <div align="center">
@@ -83,6 +92,8 @@ I like software that *feels* fast and *is* correct. Snappy UI is easy to fake �
 
 <br>
 
+---
+
 ## ⚡ How I work
 
-I care about the boring-but-critical stuff: data integrity, concurrency safety, and things not silently breaking under load. I'd rather ship something a little smaller that's actually correct than something flashy that falls over the moment two users touch it at the same time. If you're looking at my repos, that's the thread running through all of them.
+> I care about the boring-but-critical stuff: data integrity, concurrency safety, and things not silently breaking under load. I'd rather ship something a little smaller that's actually correct than something flashy that falls over the moment two users touch it at the same time. If you're looking at my repos, that's the thread running through all of them.
